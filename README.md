@@ -9,4 +9,4 @@
 - you can change/add categories by customizing the list filters
 - to add playlists, open list filter, click + and add title and picture. Copy Spotify URI from Spotify App and paste it to Arg-Field
 
-![https://github.com/Goldsucher/Favorite-Spotify-Playlists-Alfred-Workflow/blob/main/Favorite%20Spotify%20Playlists.gif?raw=true](Favorite Spotify Playlists)
+![Favorite Spotify Playlists](https://github.com/Goldsucher/Favorite-Spotify-Playlists-Alfred-Workflow/blob/main/Favorite%20Spotify%20Playlists.gif?raw=true)
