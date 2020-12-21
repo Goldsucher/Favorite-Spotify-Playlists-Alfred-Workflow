@@ -1,6 +1,10 @@
 # Favorite-Spotify-Playlists-Alfred-Workflow
 
 
+## How to install
+1. download workflow-file from github
+2. double click to install
+
 ## How to use
 1. type s- to view the categories/moods. Select one or go on typing with category-letter (eg. s-c for "chill playlists")
 2. select playlist you want to hear
